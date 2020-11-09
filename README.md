@@ -1,4 +1,4 @@
-# demo_ui
+## Basics UI & Widgets for Beginners in Flutter
 
 A new Flutter application.
 
